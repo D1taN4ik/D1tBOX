@@ -1,75 +1,75 @@
-**D1tBOX** — это современная платформа, которая помогает бизнесу отслеживать продуктивность команды, автоматизировать рутинные процессы и принимать решения на основе реальных данных. Всё необходимое для управления эффективностью — в одном месте.
+**D1tBOX** is a modern platform that helps businesses track team productivity, automate routine processes, and make decisions based on real data. Everything you need for performance management is in one place.
 
 ---
 
-## Ключевые возможности 🌟
+## Key Features 🌟
 
-| | Описание |
+| | Description |
 | --- | --- |
-| **📊 Контроль эффективности** | Прозрачная аналитика по каждому сотруднику, отделу и проекту. Вы видите, кто перегружен, а у кого есть ресурс для новых задач. |
-| **🎨 Удобный UI/UX дизайн** | Интуитивно понятный интерфейс, который не требует обучения. Сотрудники с удовольствием работают в системе, а руководители быстро находят нужные данные. |
-| **🤖 Интеграция с Telegram** | Вся коммуникация и уведомления могут приходить прямо в Telegram. Сотрудники закрывают задачи, получают отчёты и напоминания, не покидая любимого мессенджера. |
-| **⚡ Простая установка** | Запустите D1tBOX за 5 минут. Никаких сложных настроек и зависимостей — всё работает "из коробки". |
+| **📊 Performance Monitoring** | Transparent analytics for every employee, department, and project. You see who is overloaded and who has resources for new tasks. |
+| **🎨 User-friendly UI/UX design** | Intuitive interface that requires no training. Employees enjoy using the system, and managers quickly find the data they need. |
+| **🤖 Telegram Integration** | All communication and notifications can be sent directly to Telegram. Employees complete tasks, receive reports, and receive reminders without leaving their favorite messenger. |
+| **⚡ Easy Installation** | Get D1tBOX up and running in 5 minutes. No complicated settings or dependencies—everything works out of the box. |
 
 ---
 
-## Быстрый старт 🚀
+## Quick Start 🚀
 
-### Установка на сервер
+### Server Installation
 
-1. **Склонируйте репозиторий**
-   ```bash
-   git clone https://github.com/d1tan4ik/d1tbox.git
-   ```
+1. **Clone the repository**
+```bash
+git clone https://github.com/d1tan4ik/d1tbox.git
+```
 
-2. **Перейдите в директорию проекта**
-   ```bash
-   cd d1tbox
-   ```
+2. **Go to the project directory**
+```bash
+cd d1tbox
+```
 
-3. **Запустите установку** (подробности в документации)
-   ```bash
-   ./install.sh
-   ```
+3. **Run the installation** (details in the documentation)
+```bash
+./install.sh
+```
 
-### Подключение Telegram-бота
+### Connecting a Telegram Bot
 
-1. Создайте бота в Telegram через [@BotFather](https://t.me/BotFather)
-2. Получите токен
-3. Добавьте токен в настройки D1tBOX
-4. **Готово!** Сотрудники могут привязывать свои аккаунты
-
----
-
-## Технологии 🛠
-
-- **Бэкенд:** C# / .NET 8 (ASP.NET Core)
-- **Фронтенд:** Blazor (WebAssembly/Server)
-- **База данных:** PostgreSQL
-- **Интеграции:** Telegram Bot API
+1. Create a bot in Telegram via [@BotFather](https://t.me/BotFather)
+2. Get a token
+3. Add the token to the D1tBOX settings
+4. **Done!** Employees can link their accounts
 
 ---
 
-## Дорожная карта (Roadmap) 🌱
+## Technologies 🛠
 
-- [x] Базовая CRM и учёт задач
-- [x] Интеграция с Telegram
-- [ ] Мобильное приложение (iOS/Android)
-- [ ] Расширенная аналитика и дашборды
-- [ ] Интеграция с популярными сервисами (AmoCRM, Битрикс24)
+- **Backend:** C# / .NET 8 (ASP.NET Core)
+- **Frontend:** Blazor (WebAssembly/Server)
+- **Database:** PostgreSQL
+- **Integrations:** Telegram Bot API
 
 ---
 
-## Лицензия 📄
+## Roadmap 🌱
 
-Проект распространяется под лицензией **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+- [x] Basic CRM and task tracking
+- [x] Telegram integration
+- [ ] Mobile app (iOS/Android)
+- [ ] Advanced analytics and dashboards
+- [ ] Integration with popular services (AmoCRM, Bitrix24)
 
-Это означает, что вы можете свободно использовать, модифицировать и распространять код, но если вы запускаете публичный сервис на основе D1tBOX, вы обязаны предоставить доступ к исходному коду ваших изменений всем пользователям.
+---
 
-Подробнее — в файле [LICENSE](LICENSE).
+## License 📄
+
+The project is distributed under the **GNU Affero General Public License v3.0 (AGPL-3.0)** license.
+
+This means you are free to use, modify, and distribute the code, but if you launch a public service based on D1tBOX, you are required to provide access to the source code of your changes to all users.
+
+More details are in the [LICENSE](LICENSE) file.
 
 ---
 
 <div align="center">
-  <strong>D1tBOX — делаем работу прозрачной, а бизнес — эффективным.</strong> ✨
+<strong>D1tBOX — making work transparent and business efficient.</strong> ✨
 </div>
