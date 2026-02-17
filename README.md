@@ -1,3 +1,7 @@
+![WIP](https://img.shields.io/badge/status-in%20development-orange)
+
+Проект находится в активной разработке.
+
 **D1tBOX** is a modern platform that helps businesses track team productivity, automate routine processes, and make decisions based on real data. Everything you need for performance management is in one place.
 
 ---
